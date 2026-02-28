@@ -1,5 +1,5 @@
 region        = "ap-south-1"
 vpc_cidr      = "10.0.0.0/16"
 ami_id        = "ami-056335ec4a8783947"
-instance_type = "t3.micro"
+instance_type = "t2.medium"
 key_name      = "terraform-ec2-key"
